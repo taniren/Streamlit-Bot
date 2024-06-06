@@ -3,3 +3,4 @@ langdetect
 transformers
 spacy
 nltk
+textblob
