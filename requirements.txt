@@ -1,0 +1,6 @@
+torch
+langdetect
+transformers
+spacy
+nltk
+re
