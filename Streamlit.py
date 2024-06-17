@@ -112,7 +112,7 @@ st.markdown("""
             color: #4a69bd; /* Setting the text color to a calm blue */
         }
     </style>
-    <p class="small-font">Welcome to the customer support form RespondRover! Please type your inquiry below.</p>
+    <p class="small-font">Welcome to customer support bot for automated ticket categorization RespondRover! Please type your inquiry below.</p>
 """, unsafe_allow_html=True)
 
 
