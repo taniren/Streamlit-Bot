@@ -1,6 +1,7 @@
-torch
+streamlit==1.33.0
+torch==2.2.2
 langdetect
 transformers
-spacy
-nltk
+spacy==3.7.4
+nltk==3.8.1
 textblob
