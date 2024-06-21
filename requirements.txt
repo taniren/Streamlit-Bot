@@ -4,3 +4,5 @@ transformers
 spacy
 nltk
 textblob
+numpy==2.0.0
+spacy==3.7.5
